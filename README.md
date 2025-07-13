@@ -45,7 +45,7 @@ Dự án này được hoàn thành bởi các sinh viên:
 * **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred)
 <br>
 
-# Customizable Tic Tac Toe with a Five Elements Theme
+# Customizable Tic Tac Toe with Five Elements Theme
 
 An extended version of the classic Tic Tac Toe game, developed using Python and the Kivy library, allowing for deep customization of game rules and experience.
 
