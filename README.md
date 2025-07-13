@@ -39,8 +39,8 @@ Một phiên bản mở rộng của trò chơi Tic Tac Toe cổ điển, đư�
 
 Dự án này được hoàn thành bởi các sinh viên:
 
-* **Hoàng Quốc Duy** - 24520373 - [Github]((https://github.com/Rod-HD) *
-*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/your-profile-link) *
+* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) *
+*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) *
 * **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) ---
 <br>
 
@@ -81,4 +81,6 @@ For a detailed understanding of the development process, algorithms, and technic
 
 This project was completed by the following students:
 
-* **Hoang Quoc Duy** - 24520373 - [Github](https://github.com/your-profile-link) * **Nguyen Thai Duy** - 24520390 - [Github](https://github.com/your-profile-link) * **Nguyen Quoc Khanh** - 24520793 - [Github](https://github.com/your-profile-link) ```
+* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) *
+*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) *
+* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) ```
