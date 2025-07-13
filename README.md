@@ -35,13 +35,14 @@ Một phiên bản mở rộng của trò chơi Tic Tac Toe cổ điển, đư�
 
 ## 📄 Báo cáo đồ án
 
-Để hiểu rõ hơn về quá trình phát triển, thuật toán và các chi tiết kỹ thuật, vui lòng tham khảo [báo cáo đầy đủ tại đây](https://your-report-link-here.com). ## 👨‍💻 Sinh viên thực hiện
+Để hiểu rõ hơn về quá trình phát triển, thuật toán và các chi tiết kỹ thuật, vui lòng tham khảo [báo cáo đầy đủ tại đây](https://your-report-link-here.com).
+## 👨‍💻 Sinh viên thực hiện
 
 Dự án này được hoàn thành bởi các sinh viên:
 
-* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) *
-*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) *
-* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) ---
+* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) 
+*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) 
+* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred)
 <br>
 
 # Customizable Tic Tac Toe with a Five Elements Theme
@@ -81,6 +82,6 @@ For a detailed understanding of the development process, algorithms, and technic
 
 This project was completed by the following students:
 
-* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) *
-*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) *
-* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) ```
+* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/Rod-HD) 
+*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/thaiduy436) 
+* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) 
