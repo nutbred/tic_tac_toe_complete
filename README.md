@@ -78,7 +78,8 @@ To run the game on your computer, you need Python and the Kivy library installed
 
 ## 📄 Project Report
 
-For a detailed understanding of the development process, algorithms, and technical specifics, please refer to the [full report here](https://your-report-link-here.com). ## 👨‍💻 Developers
+For a detailed understanding of the development process, algorithms, and technical specifics, please refer to the [full report here](https://your-report-link-here.com). 
+## 👨‍💻 Developers
 
 This project was completed by the following students:
 
