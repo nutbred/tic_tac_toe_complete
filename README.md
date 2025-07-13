@@ -11,7 +11,7 @@ Một phiên bản mở rộng của trò chơi Tic Tac Toe cổ điển, đư�
 * **Lưới chơi tùy biến:** Tự do điều chỉnh số hàng và cột của bàn cờ ngay tại màn hình chính.
 * **Luật thắng linh hoạt:** Thiết lập số lượng quân cờ liên tiếp cần có để giành chiến thắng.
 * **Vật cản ngẫu nhiên:** Thêm thắt độ khó và tính chiến thuật với các ô vật cản trên bàn cờ, số lượng có thể tùy chỉnh.
-* **Chủ đề Ngũ Hành:** Trải nghiệm 5 giao diện độc đáo dựa trên 5 yếu tố: Kim 쇠, Mộc 나무, Thủy 물, Hỏa 불, và Thổ 흙.
+* **Chủ đề Ngũ Hành:** Trải nghiệm 5 giao diện độc đáo dựa trên 5 yếu tố: Kim , Mộc , Thủy , Hỏa , và Thổ.
 * **Chơi với máy (AI):** Thử thách bản thân với đối thủ máy tính.
 
 ## 🛠️ Cài đặt & Chạy game
@@ -39,7 +39,9 @@ Một phiên bản mở rộng của trò chơi Tic Tac Toe cổ điển, đư�
 
 Dự án này được hoàn thành bởi các sinh viên:
 
-* **Hoàng Quốc Duy** - 24520373 - [Github](https://github.com/your-profile-link) * **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/your-profile-link) * **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/your-profile-link) ---
+* **Hoàng Quốc Duy** - 24520373 - [Github]((https://github.com/Rod-HD) *
+*  **Nguyễn Thái Duy** - 24520390 - [Github](https://github.com/your-profile-link) *
+* **Nguyễn Quốc Khánh** - 24520793 - [Github](https://github.com/nutbred) ---
 <br>
 
 # Customizable Tic Tac Toe with a Five Elements Theme
